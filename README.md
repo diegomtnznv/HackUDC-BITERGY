@@ -7,8 +7,7 @@ Mobile App development for HackUDC competition (Gradiant challenge)
 ## Descripción
 
 Bitergy es una aplicación móvil desarrollada en Android Studio con el objetivo de procesar y proporcionar información al usuario sobre diferentes gastos en el ámbito del hogar.
-
-Estos gastos incluyen el consumo de luz, agua y gas, además de permitir al usuario añadir otros tipos de gastos personales para personalizar su lista.
+Estos gastos incluyen el consumo de luz, agua y gas.
 
 ## Problema Solucionado
 
@@ -50,4 +49,4 @@ Este proyecto está bajo la Licencia GPL-3.0.
 
 ## Contacto
 
-Para cualquier pregunta o sugerencia, no dudes en ponerte en contacto con nosotros en 
+Para cualquier pregunta o sugerencia, no dudes en ponerte en contacto con cualquiera de los autores de este proyecto.
